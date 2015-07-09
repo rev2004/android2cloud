@@ -1,0 +1,4 @@
+# About Donations #
+android2cloud is an open source, freely available project that has no fees. We maintain a public Google App Engine server that serves more than 15,000 users at any given point, and our user base is only growing. To offset the costs of keeping the servers online, we accept donations through our $1 donate application in the market, and through PayPal. You can donate using PayPal, either from the in-app donation screen or by clicking [here](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=MQQP9URQ9DMN2&lc=US&item_name=Paddy%20Foran&item_number=code%2egoogle%2ecom&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted).
+
+You are, of course, not required to donate to use this project, and we appreciate every donation we receive, no matter the size.
